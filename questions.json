@@ -1,0 +1,2452 @@
+[
+    {
+        "id": 51,
+        "question": "Which of these particles has no electric charge?",
+        "options": ["Proton", "Electron", "Neutron", "Ion"],
+        "answer": "Neutron",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 52,
+        "question": "What is the gap between two neurons called?",
+        "options": ["Axon", "Synapse", "Dendrite", "Lobe"],
+        "answer": "Synapse",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 53,
+        "question": "Which mineral is the softest on the Mohs Hardness Scale?",
+        "options": ["Talc", "Quartz", "Diamond", "Gypsum"],
+        "answer": "Talc",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 54,
+        "question": "Newton's Second Law is often summarized by which formula?",
+        "options": ["E=mc^2", "F=ma", "A=lw", "V=IR"],
+        "answer": "F=ma",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 55,
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "options": ["Marie Curie", "Rosalind Franklin", "Jane Goodall", "Sally Ride"],
+        "answer": "Marie Curie",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 56,
+        "question": "Which organelle controls what enters and leaves the cell?",
+        "options": ["Cell Wall", "Cell Membrane", "Nucleus", "Ribosome"],
+        "answer": "Cell Membrane",
+        "topic": "Organelles"
+    },
+    {
+        "id": 57,
+        "question": "Which of these animals is an invertebrate?",
+        "options": ["Shark", "Eagle", "Octopus", "Frog"],
+        "answer": "Octopus",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 58,
+        "question": "Batteries store which type of energy?",
+        "options": ["Thermal Energy", "Chemical Energy", "Kinetic Energy", "Nuclear Energy"],
+        "answer": "Chemical Energy",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 59,
+        "question": "A circuit that has a break in it, preventing flow, is called what?",
+        "options": ["Short Circuit", "Closed Circuit", "Open Circuit", "Parallel Circuit"],
+        "answer": "Open Circuit",
+        "topic": "Electricity"
+    },
+    {
+        "id": 60,
+        "question": "The number of waves that pass a fixed point in a given amount of time is called:",
+        "options": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+        "answer": "Frequency",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 61,
+        "question": "Which constellation is shaped like a 'W' or 'M'?",
+        "options": ["Orion", "Cassiopeia", "Ursa Major", "Draco"],
+        "answer": "Cassiopeia",
+        "topic": "Constellations"
+    },
+    {
+        "id": 62,
+        "question": "When the Moon appears to be growing larger, it is:",
+        "options": ["Waning", "Waxing", "Gibbous", "Crescent"],
+        "answer": "Waxing",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 63,
+        "question": "How many centimeters are in one meter?",
+        "options": ["10", "100", "1000", "10000"],
+        "answer": "100",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 64,
+        "question": "What is the chemical symbol for Iron?",
+        "options": ["Ir", "Fe", "In", "Au"],
+        "answer": "Fe",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 65,
+        "question": "The green pigment in plants that traps sunlight is called:",
+        "options": ["Chlorophyll", "Chloroplast", "Cytoplasm", "Glucose"],
+        "answer": "Chlorophyll",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 66,
+        "question": "DNA is shaped like a twisted ladder, also known as a:",
+        "options": ["Single Helix", "Double Helix", "Spiral Staircase", "Coil"],
+        "answer": "Double Helix",
+        "topic": "Genetics"
+    },
+    {
+        "id": 67,
+        "question": "Which dinosaur had large plates along its back?",
+        "options": ["Triceratops", "Stegosaurus", "Ankylosaurus", "Diplodocus"],
+        "answer": "Stegosaurus",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 68,
+        "question": "The trapping of heat near a planet's surface is known as:",
+        "options": ["The Greenhouse Effect", "Ozone Depletion", "Global Cooling", "Solar Flares"],
+        "answer": "The Greenhouse Effect",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 69,
+        "question": "A ramp is an example of which simple machine?",
+        "options": ["Wedge", "Lever", "Inclined Plane", "Pulley"],
+        "answer": "Inclined Plane",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 70,
+        "question": "Dark, cooler spots on the Sun's surface are called:",
+        "options": ["Solar Flares", "Sunspots", "Coronas", "Solar Winds"],
+        "answer": "Sunspots",
+        "topic": "The Sun"
+    },
+    {
+        "id": 71,
+        "question": "Two or more atoms joined together chemically form a:",
+        "options": ["Molecule", "Nucleus", "Proton", "Ion"],
+        "answer": "Molecule",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 72,
+        "question": "The bundle of nerves running down the back is the:",
+        "options": ["Brain Stem", "Spinal Cord", "Cerebellum", "Vertebrae"],
+        "answer": "Spinal Cord",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 73,
+        "question": "Limestone is an example of which type of rock?",
+        "options": ["Igneous", "Sedimentary", "Metamorphic", "Gemstone"],
+        "answer": "Sedimentary",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 74,
+        "question": "For every action, there is an equal and opposite reaction. This is Newton's:",
+        "options": ["First Law", "Second Law", "Third Law", "Law of Gravity"],
+        "answer": "Third Law",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 75,
+        "question": "Which scientist is famous for studying chimpanzees in the wild?",
+        "options": ["Jane Goodall", "Marie Curie", "Rachel Carson", "Mae Jemison"],
+        "answer": "Jane Goodall",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 76,
+        "question": "Which organelle stores food, water, and waste?",
+        "options": ["Vacuole", "Nucleus", "Mitochondria", "Ribosome"],
+        "answer": "Vacuole",
+        "topic": "Organelles"
+    },
+    {
+        "id": 77,
+        "question": "Mammals are the only animals that have:",
+        "options": ["Scales", "Feathers", "Hair or Fur", "Gills"],
+        "answer": "Hair or Fur",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 78,
+        "question": "Which form of energy is produced by splitting atoms?",
+        "options": ["Thermal", "Nuclear", "Chemical", "Solar"],
+        "answer": "Nuclear",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 79,
+        "question": "Materials that do NOT allow electricity to flow easily are called:",
+        "options": ["Conductors", "Insulators", "Resistors", "Circuits"],
+        "answer": "Insulators",
+        "topic": "Electricity"
+    },
+    {
+        "id": 80,
+        "question": "The height of a wave from the resting position to the crest is the:",
+        "options": ["Wavelength", "Frequency", "Amplitude", "Hertz"],
+        "answer": "Amplitude",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 81,
+        "question": "The Big Dipper is part of which constellation?",
+        "options": ["Ursa Major", "Ursa Minor", "Orion", "Leo"],
+        "answer": "Ursa Major",
+        "topic": "Constellations"
+    },
+    {
+        "id": 82,
+        "question": "A 'Blue Moon' refers to:",
+        "options": ["The second full moon in a month", "A moon that looks blue", "A new moon", "A lunar eclipse"],
+        "answer": "The second full moon in a month",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 83,
+        "question": "What unit is used to measure force?",
+        "options": ["Joule", "Newton", "Gram", "Meter"],
+        "answer": "Newton",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 84,
+        "question": "Which element is essential for breathing and combustion?",
+        "options": ["Nitrogen", "Oxygen", "Carbon", "Helium"],
+        "answer": "Oxygen",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 85,
+        "question": "Plants release which gas as a byproduct of photosynthesis?",
+        "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Methane"],
+        "answer": "Oxygen",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 86,
+        "question": "An inherited trait (like eye color) is determined by:",
+        "options": ["Genes", "Cells", "Blood type", "Nutrition"],
+        "answer": "Genes",
+        "topic": "Genetics"
+    },
+    {
+        "id": 87,
+        "question": "Which dinosaur was a flying reptile?",
+        "options": ["Pterodactyl", "T-Rex", "Triceratops", "Velociraptor"],
+        "answer": "Pterodactyl",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 88,
+        "question": "Which of these is a fossil fuel?",
+        "options": ["Wood", "Coal", "Solar", "Wind"],
+        "answer": "Coal",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 89,
+        "question": "A flagpole uses which simple machine to raise the flag?",
+        "options": ["Pulley", "Lever", "Wedge", "Screw"],
+        "answer": "Pulley",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 90,
+        "question": "The Sun is classified as a:",
+        "options": ["Planet", "Star", "Moon", "Asteroid"],
+        "answer": "Star",
+        "topic": "The Sun"
+    },
+    {
+        "id": 91,
+        "question": "Everything in the universe that has mass and takes up space is:",
+        "options": ["Energy", "Matter", "Light", "Sound"],
+        "answer": "Matter",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 92,
+        "question": "Which part of the brain controls breathing and heart rate?",
+        "options": ["Cerebrum", "Cerebellum", "Brain Stem", "Thalamus"],
+        "answer": "Brain Stem",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 93,
+        "question": "Molten rock inside the Earth is called:",
+        "options": ["Lava", "Magma", "Granite", "Obsidian"],
+        "answer": "Magma",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 94,
+        "question": "An object at rest stays at rest unless acted upon by a force. This is:",
+        "options": ["Inertia", "Gravity", "Friction", "Acceleration"],
+        "answer": "Inertia",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 95,
+        "question": "Who invented the lightbulb?",
+        "options": ["Thomas Edison", "Nikola Tesla", "Benjamin Franklin", "Alexander Graham Bell"],
+        "answer": "Thomas Edison",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 96,
+        "question": "Which structure provides support and protection for plant cells?",
+        "options": ["Cell Membrane", "Cell Wall", "Nucleus", "Cytoplasm"],
+        "answer": "Cell Wall",
+        "topic": "Organelles"
+    },
+    {
+        "id": 97,
+        "question": "Birds are the only animals that have:",
+        "options": ["Wings", "Feathers", "Beaks", "Claws"],
+        "answer": "Feathers",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 98,
+        "question": "Heat energy moving through a solid object (like a spoon in soup) is:",
+        "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+        "answer": "Conduction",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 99,
+        "question": "A complete path for electricity to flow is called a:",
+        "options": ["Switch", "Circuit", "Battery", "Wire"],
+        "answer": "Circuit",
+        "topic": "Electricity"
+    },
+    {
+        "id": 100,
+        "question": "Sound travels in what kind of waves?",
+        "options": ["Transverse", "Longitudinal", "Electromagnetic", "Surface"],
+        "answer": "Longitudinal",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 101,
+        "question": "Which particle orbits around the nucleus of an atom?",
+        "options": ["Proton", "Neutron", "Electron", "Quark"],
+        "answer": "Electron",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 102,
+        "question": "The brain is part of which body system?",
+        "options": ["Circulatory", "Nervous", "Respiratory", "Digestive"],
+        "answer": "Nervous",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 103,
+        "question": "Granite is an example of what type of rock?",
+        "options": ["Igneous", "Sedimentary", "Metamorphic", "Sandstone"],
+        "answer": "Igneous",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 104,
+        "question": "Which law explains why a rocket launches upward when gas is pushed downward?",
+        "options": ["Newton's 1st Law", "Newton's 2nd Law", "Newton's 3rd Law", "Law of Gravity"],
+        "answer": "Newton's 3rd Law",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 105,
+        "question": "Who discovered the law of gravity after seeing an apple fall?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo", "Darwin"],
+        "answer": "Isaac Newton",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 106,
+        "question": "Which organelle is the 'brain' of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome", "Vacuole"],
+        "answer": "Nucleus",
+        "topic": "Organelles"
+    },
+    {
+        "id": 107,
+        "question": "Which class of animals has moist skin and lays eggs in water?",
+        "options": ["Reptiles", "Mammals", "Amphibians", "Birds"],
+        "answer": "Amphibians",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 108,
+        "question": "Wind moving a windmill is an example of what energy?",
+        "options": ["Chemical", "Mechanical", "Nuclear", "Thermal"],
+        "answer": "Mechanical",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 109,
+        "question": "A material that stops the flow of electricity is an:",
+        "options": ["Insulator", "Conductor", "Amplifier", "Inductor"],
+        "answer": "Insulator",
+        "topic": "Electricity"
+    },
+    {
+        "id": 110,
+        "question": "The lowest point of a wave is called the:",
+        "options": ["Crest", "Trough", "Amplitude", "Frequency"],
+        "answer": "Trough",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 111,
+        "question": "Which constellation represents a Lion?",
+        "options": ["Leo", "Orion", "Cancer", "Gemini"],
+        "answer": "Leo",
+        "topic": "Constellations"
+    },
+    {
+        "id": 112,
+        "question": "Which phase comes after the New Moon?",
+        "options": ["Waxing Crescent", "Full Moon", "Waning Gibbous", "Third Quarter"],
+        "answer": "Waxing Crescent",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 113,
+        "question": "What is the metric unit for liquid volume?",
+        "options": ["Liter", "Meter", "Gram", "Newton"],
+        "answer": "Liter",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 114,
+        "question": "What is the symbol for Helium?",
+        "options": ["H", "He", "Hl", "El"],
+        "answer": "He",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 115,
+        "question": "The food made by plants during photosynthesis is a type of:",
+        "options": ["Protein", "Sugar (Glucose)", "Fat", "Salt"],
+        "answer": "Sugar (Glucose)",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 116,
+        "question": "Which scientist studied pea plants to understand genetics?",
+        "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Robert Hooke"],
+        "answer": "Gregor Mendel",
+        "topic": "Genetics"
+    },
+    {
+        "id": 117,
+        "question": "Which dinosaur had a long neck and ate plants?",
+        "options": ["T-Rex", "Brachiosaurus", "Velociraptor", "Spinosaurus"],
+        "answer": "Brachiosaurus",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 118,
+        "question": "The melting of polar ice caps is a result of:",
+        "options": ["Global Warming", "Ozone Layer", "Acid Rain", "Deforestation"],
+        "answer": "Global Warming",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 119,
+        "question": "A seesaw is an example of a:",
+        "options": ["Lever", "Pulley", "Screw", "Wedge"],
+        "answer": "Lever",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 120,
+        "question": "The Sun provides Earth with:",
+        "options": ["Heat and Light", "Oxygen and Water", "Rocks and Minerals", "Sound and Wind"],
+        "answer": "Heat and Light",
+        "topic": "The Sun"
+    },
+    {
+        "id": 121,
+        "question": "What charge does a proton have?",
+        "options": ["Positive", "Negative", "Neutral", "None"],
+        "answer": "Positive",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 122,
+        "question": "Which nerve carries signals from the eye to the brain?",
+        "options": ["Optic Nerve", "Auditory Nerve", "Olfactory Nerve", "Spinal Nerve"],
+        "answer": "Optic Nerve",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 123,
+        "question": "Sandstone turns into Quartzite through heat and pressure. Quartzite is:",
+        "options": ["Metamorphic", "Sedimentary", "Igneous", "Volcanic"],
+        "answer": "Metamorphic",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 124,
+        "question": "A heavier object is harder to push than a lighter one. This is related to:",
+        "options": ["Newton's 2nd Law (F=ma)", "Newton's 3rd Law", "Archimedes Principle", "Refraction"],
+        "answer": "Newton's 2nd Law (F=ma)",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 125,
+        "question": "Galileo is famous for improving which instrument?",
+        "options": ["Microscope", "Telescope", "Thermometer", "Barometer"],
+        "answer": "Telescope",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 126,
+        "question": "Ribosomes are responsible for making:",
+        "options": ["Proteins", "Energy", "DNA", "Cell Walls"],
+        "answer": "Proteins",
+        "topic": "Organelles"
+    },
+    {
+        "id": 127,
+        "question": "Which animal is a mammal that lays eggs?",
+        "options": ["Platypus", "Kangaroo", "Bat", "Whale"],
+        "answer": "Platypus",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 128,
+        "question": "Energy stored in food is:",
+        "options": ["Chemical Potential Energy", "Kinetic Energy", "Thermal Energy", "Electrical Energy"],
+        "answer": "Chemical Potential Energy",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 129,
+        "question": "The flow of electrons is called:",
+        "options": ["Current", "Voltage", "Resistance", "Power"],
+        "answer": "Current",
+        "topic": "Electricity"
+    },
+    {
+        "id": 130,
+        "question": "Sound cannot travel through:",
+        "options": ["Solids", "Liquids", "Gases", "A Vacuum"],
+        "answer": "A Vacuum",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 131,
+        "question": "Which star is closest to Earth?",
+        "options": ["The Sun", "Proxima Centauri", "Sirius", "Polaris"],
+        "answer": "The Sun",
+        "topic": "The Sun"
+    },
+    {
+        "id": 132,
+        "question": "Which phase is the Moon in during a solar eclipse?",
+        "options": ["New Moon", "Full Moon", "First Quarter", "Last Quarter"],
+        "answer": "New Moon",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 133,
+        "question": "1000 grams is equal to:",
+        "options": ["1 Kilogram", "1 Milligram", "1 Pound", "1 Ton"],
+        "answer": "1 Kilogram",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 134,
+        "question": "The symbol 'Na' stands for which element?",
+        "options": ["Sodium", "Nitrogen", "Neon", "Nickel"],
+        "answer": "Sodium",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 135,
+        "question": "Where does photosynthesis take place in a plant cell?",
+        "options": ["Chloroplasts", "Mitochondria", "Nucleus", "Ribosomes"],
+        "answer": "Chloroplasts",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 136,
+        "question": "Humans have how many pairs of chromosomes?",
+        "options": ["23", "46", "12", "100"],
+        "answer": "23",
+        "topic": "Genetics"
+    },
+    {
+        "id": 137,
+        "question": "Dinosaurs went extinct approximately how many years ago?",
+        "options": ["65 Million", "10,000", "1 Billion", "500 Years"],
+        "answer": "65 Million",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 138,
+        "question": "Deforestation means:",
+        "options": ["Cutting down forests", "Planting new trees", "Watering plants", "Studying leaves"],
+        "answer": "Cutting down forests",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 139,
+        "question": "A knife blade is an example of a:",
+        "options": ["Wedge", "Lever", "Pulley", "Screw"],
+        "answer": "Wedge",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 140,
+        "question": "The Sun is made mostly of Hydrogen and:",
+        "options": ["Helium", "Oxygen", "Carbon", "Iron"],
+        "answer": "Helium",
+        "topic": "The Sun"
+    },
+    {
+        "id": 141,
+        "question": "Water (H2O) is a:",
+        "options": ["Compound", "Element", "Atom", "Mixture"],
+        "answer": "Compound",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 142,
+        "question": "The Cerebellum controls:",
+        "options": ["Balance and Coordination", "Thinking", "Breathing", "Heartbeat"],
+        "answer": "Balance and Coordination",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 143,
+        "question": "Fossils are usually found in which type of rock?",
+        "options": ["Sedimentary", "Igneous", "Metamorphic", "Granite"],
+        "answer": "Sedimentary",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 144,
+        "question": "Friction is a force that acts:",
+        "options": ["Opposite to motion", "In the same direction as motion", "Perpendicular to motion", "Only upwards"],
+        "answer": "Opposite to motion",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 145,
+        "question": "Who invented the phonograph?",
+        "options": ["Thomas Edison", "Benjamin Franklin", "Albert Einstein", "Nikola Tesla"],
+        "answer": "Thomas Edison",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 146,
+        "question": "Plant cells have this, but animal cells do not:",
+        "options": ["Chloroplast", "Nucleus", "Mitochondria", "Ribosome"],
+        "answer": "Chloroplast",
+        "topic": "Organelles"
+    },
+    {
+        "id": 147,
+        "question": "Cold-blooded animals:",
+        "options": ["Rely on the environment for heat", "Make their own heat", "Have cold blood always", "Live only in ice"],
+        "answer": "Rely on the environment for heat",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 148,
+        "question": "A stretched bow has:",
+        "options": ["Elastic Potential Energy", "Kinetic Energy", "Thermal Energy", "Chemical Energy"],
+        "answer": "Elastic Potential Energy",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 149,
+        "question": "Static electricity is caused by:",
+        "options": ["A buildup of charges", "Flowing current", "Magnets", "Heat"],
+        "answer": "A buildup of charges",
+        "topic": "Electricity"
+    },
+    {
+        "id": 150,
+        "question": "Light bends when it enters water. This is called:",
+        "options": ["Refraction", "Reflection", "Absorption", "Diffraction"],
+        "answer": "Refraction",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 151,
+        "question": "The North Star is also known as:",
+        "options": ["Polaris", "Sirius", "Vega", "Betelgeuse"],
+        "answer": "Polaris",
+        "topic": "Constellations"
+    },
+    {
+        "id": 152,
+        "question": "When the lit part of the moon is getting smaller, it is:",
+        "options": ["Waning", "Waxing", "Full", "New"],
+        "answer": "Waning",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 153,
+        "question": "Which is longer?",
+        "options": ["1 Kilometer", "1 Meter", "1 Centimeter", "1 Millimeter"],
+        "answer": "1 Kilometer",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 154,
+        "question": "The symbol 'O' stands for:",
+        "options": ["Oxygen", "Osmium", "Oganesson", "Oxide"],
+        "answer": "Oxygen",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 155,
+        "question": "Plants need sunlight, water, and ___ for photosynthesis.",
+        "options": ["Carbon Dioxide", "Oxygen", "Sugar", "Salt"],
+        "answer": "Carbon Dioxide",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 156,
+        "question": "A Punnett Square is used to predict:",
+        "options": ["Genotypes of offspring", "Weather", "Chemical reactions", "Planetary orbits"],
+        "answer": "Genotypes of offspring",
+        "topic": "Genetics"
+    },
+    {
+        "id": 157,
+        "question": "Which dinosaur is known for the plates on its back and spikes on its tail?",
+        "options": ["Stegosaurus", "T-Rex", "Triceratops", "Ankylosaurus"],
+        "answer": "Stegosaurus",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 158,
+        "question": "Rising sea levels are a major concern of:",
+        "options": ["Climate Change", "Plate Tectonics", "Volcanic Eruptions", "Erosion"],
+        "answer": "Climate Change",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 159,
+        "question": "A screw is essentially a ___ wrapped around a cylinder.",
+        "options": ["Inclined Plane", "Lever", "Pulley", "Wedge"],
+        "answer": "Inclined Plane",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 160,
+        "question": "The visible surface of the Sun is called the:",
+        "options": ["Photosphere", "Corona", "Core", "Chromosphere"],
+        "answer": "Photosphere",
+        "topic": "The Sun"
+    },
+    {
+        "id": 161,
+        "question": "Everything is made of:",
+        "options": ["Atoms", "Cells", "Air", "Water"],
+        "answer": "Atoms",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 162,
+        "question": "The main organ of the nervous system is the:",
+        "options": ["Brain", "Heart", "Stomach", "Lung"],
+        "answer": "Brain",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 163,
+        "question": "Obsidian is a glass-like rock formed from cooling lava. It is:",
+        "options": ["Igneous", "Sedimentary", "Metamorphic", "Fossil"],
+        "answer": "Igneous",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 164,
+        "question": "Inertia depends on an object's:",
+        "options": ["Mass", "Volume", "Color", "Shape"],
+        "answer": "Mass",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 165,
+        "question": "Stephen Hawking is famous for his work on:",
+        "options": ["Black Holes", "Evolution", "Electricity", "Cells"],
+        "answer": "Black Holes",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 166,
+        "question": "Cytoplasm is the:",
+        "options": ["Jelly-like substance inside a cell", "Hard outer shell", "Control center", "Energy factory"],
+        "answer": "Jelly-like substance inside a cell",
+        "topic": "Organelles"
+    },
+    {
+        "id": 167,
+        "question": "A dolphin is a:",
+        "options": ["Mammal", "Fish", "Reptile", "Amphibian"],
+        "answer": "Mammal",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 168,
+        "question": "Heat moving through space (like from the Sun) is:",
+        "options": ["Radiation", "Conduction", "Convection", "Insulation"],
+        "answer": "Radiation",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 169,
+        "question": "Lightning is a form of:",
+        "options": ["Static Electricity", "Current Electricity", "Magnetism", "Gravity"],
+        "answer": "Static Electricity",
+        "topic": "Electricity"
+    },
+    {
+        "id": 170,
+        "question": "Which color of light has the longest wavelength?",
+        "options": ["Red", "Violet", "Green", "Blue"],
+        "answer": "Red",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 171,
+        "question": "Orion's Belt consists of how many stars?",
+        "options": ["3", "4", "5", "7"],
+        "answer": "3",
+        "topic": "Constellations"
+    },
+    {
+        "id": 172,
+        "question": "How many days is the lunar cycle?",
+        "options": ["29.5 days", "365 days", "24 hours", "7 days"],
+        "answer": "29.5 days",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 173,
+        "question": "How many millimeters in a centimeter?",
+        "options": ["10", "100", "1000", "5"],
+        "answer": "10",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 174,
+        "question": "Which element is a noble gas?",
+        "options": ["Neon", "Oxygen", "Iron", "Sodium"],
+        "answer": "Neon",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 175,
+        "question": "Plants are also called:",
+        "options": ["Producers", "Consumers", "Decomposers", "Predators"],
+        "answer": "Producers",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 176,
+        "question": "A dominant gene is usually represented by a:",
+        "options": ["Capital Letter", "Lowercase Letter", "Number", "Symbol"],
+        "answer": "Capital Letter",
+        "topic": "Genetics"
+    },
+    {
+        "id": 177,
+        "question": "Paleontologists study:",
+        "options": ["Fossils", "Stars", "Plants", "Oceans"],
+        "answer": "Fossils",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 178,
+        "question": "Which is a greenhouse gas?",
+        "options": ["Methane", "Oxygen", "Nitrogen", "Argon"],
+        "answer": "Methane",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 179,
+        "question": "A wheelbarrow is an example of a:",
+        "options": ["Lever (2nd Class)", "Pulley", "Wedge", "Screw"],
+        "answer": "Lever (2nd Class)",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 180,
+        "question": "What is the outermost layer of the Sun's atmosphere?",
+        "options": ["Corona", "Photosphere", "Core", "Radiative Zone"],
+        "answer": "Corona",
+        "topic": "The Sun"
+    },
+    {
+        "id": 181,
+        "question": "Molecules are always in motion. True or False?",
+        "options": ["True", "False", "Only in gas", "Only in liquid"],
+        "answer": "True",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 182,
+        "question": "Which hemisphere of the brain controls the right side of the body?",
+        "options": ["Left Hemisphere", "Right Hemisphere", "Both", "Neither"],
+        "answer": "Left Hemisphere",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 183,
+        "question": "Which rock floats on water?",
+        "options": ["Pumice", "Granite", "Marble", "Slate"],
+        "answer": "Pumice",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 184,
+        "question": "Speed equals:",
+        "options": ["Distance divided by Time", "Time divided by Distance", "Force times Mass", "Distance times Time"],
+        "answer": "Distance divided by Time",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 185,
+        "question": "Who discovered Penicillin?",
+        "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Darwin"],
+        "answer": "Alexander Fleming",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 186,
+        "question": "Which organelle is green?",
+        "options": ["Chloroplast", "Mitochondria", "Nucleus", "Vacuole"],
+        "answer": "Chloroplast",
+        "topic": "Organelles"
+    },
+    {
+        "id": 187,
+        "question": "Which animals breathe through gills?",
+        "options": ["Fish", "Mammals", "Birds", "Reptiles"],
+        "answer": "Fish",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 188,
+        "question": "A campfire gives off:",
+        "options": ["Thermal and Light Energy", "Nuclear Energy", "Electrical Energy", "Mechanical Energy"],
+        "answer": "Thermal and Light Energy",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 189,
+        "question": "Which of these is a good conductor?",
+        "options": ["Silver", "Rubber", "Glass", "Wood"],
+        "answer": "Silver",
+        "topic": "Electricity"
+    },
+    {
+        "id": 190,
+        "question": "Sound travels fastest in:",
+        "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+        "answer": "Solids",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 191,
+        "question": "The Big Dipper points to:",
+        "options": ["The North Star", "Mars", "The Moon", "The South Pole"],
+        "answer": "The North Star",
+        "topic": "Constellations"
+    },
+    {
+        "id": 192,
+        "question": "A lunar eclipse happens when:",
+        "options": ["Earth is between Sun and Moon", "Moon is between Sun and Earth", "Sun is between Earth and Moon", "Venus is between Earth and Sun"],
+        "answer": "Earth is between Sun and Moon",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 193,
+        "question": "Celsius is a unit for:",
+        "options": ["Temperature", "Length", "Mass", "Time"],
+        "answer": "Temperature",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 194,
+        "question": "The symbol 'Ag' stands for:",
+        "options": ["Silver", "Gold", "Argon", "Aluminum"],
+        "answer": "Silver",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 195,
+        "question": "Stomata are small openings on leaves that let in:",
+        "options": ["Air", "Sunlight", "Soil", "Bugs"],
+        "answer": "Air",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 196,
+        "question": "The passing of traits from parents to offspring is:",
+        "options": ["Heredity", "Digestion", "Circulation", "Respiration"],
+        "answer": "Heredity",
+        "topic": "Genetics"
+    },
+    {
+        "id": 197,
+        "question": "The 'King of Dinosaurs' is the nickname for:",
+        "options": ["T-Rex", "Spinosaurus", "Triceratops", "Velociraptor"],
+        "answer": "T-Rex",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 198,
+        "question": "Acid rain is caused by pollution mixing with:",
+        "options": ["Water vapor", "Sunlight", "Oxygen", "Trees"],
+        "answer": "Water vapor",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 199,
+        "question": "Which machine has a rope and a wheel?",
+        "options": ["Pulley", "Lever", "Wedge", "Screw"],
+        "answer": "Pulley",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 200,
+        "question": "Solar flares can interfere with:",
+        "options": ["Radio communications", "Ocean tides", "Volcanoes", "Earthquakes"],
+        "answer": "Radio communications",
+        "topic": "The Sun"
+    },
+    {
+        "id": 201,
+        "question": "Matter exists in how many main states on Earth?",
+        "options": ["3 (Solid, Liquid, Gas)", "1", "10", "2"],
+        "answer": "3 (Solid, Liquid, Gas)",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 202,
+        "question": "A reflex is:",
+        "options": ["An automatic response", "A planned movement", "A thought", "A dream"],
+        "answer": "An automatic response",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 203,
+        "question": "Which rock is made from sand grains cemented together?",
+        "options": ["Sandstone", "Granite", "Basalt", "Marble"],
+        "answer": "Sandstone",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 204,
+        "question": "More force creates more:",
+        "options": ["Acceleration", "Mass", "Inertia", "Volume"],
+        "answer": "Acceleration",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 205,
+        "question": "Who developed the theory of evolution?",
+        "options": ["Charles Darwin", "Isaac Newton", "Einstein", "Edison"],
+        "answer": "Charles Darwin",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 206,
+        "question": "Lysosomes are the cell's:",
+        "options": ["Clean-up crew", "Power plant", "Control center", "Storage tank"],
+        "answer": "Clean-up crew",
+        "topic": "Organelles"
+    },
+    {
+        "id": 207,
+        "question": "Warm-blooded animals maintain a constant:",
+        "options": ["Body temperature", "Speed", "Color", "Weight"],
+        "answer": "Body temperature",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 208,
+        "question": "Energy cannot be created or destroyed. This is the Law of:",
+        "options": ["Conservation of Energy", "Gravity", "Motion", "Relativity"],
+        "answer": "Conservation of Energy",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 209,
+        "question": "A battery has two ends called:",
+        "options": ["Terminals", "Wires", "Switches", "Bulbs"],
+        "answer": "Terminals",
+        "topic": "Electricity"
+    },
+    {
+        "id": 210,
+        "question": "Which has a higher frequency?",
+        "options": ["X-rays", "Radio waves", "Microwaves", "Visible Light"],
+        "answer": "X-rays",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 211,
+        "question": "Ursa Major is also known as the:",
+        "options": ["Great Bear", "Great Dog", "Bull", "Crab"],
+        "answer": "Great Bear",
+        "topic": "Constellations"
+    },
+    {
+        "id": 212,
+        "question": "Tides are highest during:",
+        "options": ["Full and New Moons", "Quarter Moons", "Daytime", "Nighttime"],
+        "answer": "Full and New Moons",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 213,
+        "question": "A stopwatch measures:",
+        "options": ["Time", "Distance", "Speed", "Force"],
+        "answer": "Time",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 214,
+        "question": "The symbol 'K' stands for:",
+        "options": ["Potassium", "Krypton", "Kelvin", "Kale"],
+        "answer": "Potassium",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 215,
+        "question": "Glucose is a type of:",
+        "options": ["Sugar", "Salt", "Acid", "Base"],
+        "answer": "Sugar",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 216,
+        "question": "XX chromosomes usually result in a:",
+        "options": ["Female", "Male", "Twin", "Mutation"],
+        "answer": "Female",
+        "topic": "Genetics"
+    },
+    {
+        "id": 217,
+        "question": "Which dinosaur name means 'Swift Thief'?",
+        "options": ["Velociraptor", "T-Rex", "Oviraptor", "Allosaurus"],
+        "answer": "Velociraptor",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 218,
+        "question": "Renewable energy includes:",
+        "options": ["Solar, Wind, Hydro", "Coal, Oil, Gas", "Nuclear", "Plastic"],
+        "answer": "Solar, Wind, Hydro",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 219,
+        "question": "An axe is an example of a:",
+        "options": ["Wedge", "Lever", "Pulley", "Screw"],
+        "answer": "Wedge",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 220,
+        "question": "How long does light take to reach Earth from the Sun?",
+        "options": ["8 minutes", "1 second", "1 hour", "1 year"],
+        "answer": "8 minutes",
+        "topic": "The Sun"
+    },
+    {
+        "id": 221,
+        "question": "Water freezing into ice is a:",
+        "options": ["Physical Change", "Chemical Change", "Nuclear Change", "Magnetic Change"],
+        "answer": "Physical Change",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 222,
+        "question": "Neurons are:",
+        "options": ["Nerve Cells", "Blood Cells", "Skin Cells", "Bone Cells"],
+        "answer": "Nerve Cells",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 223,
+        "question": "Geodes often contain:",
+        "options": ["Crystals", "Fossils", "Oil", "Water"],
+        "answer": "Crystals",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 224,
+        "question": "When you paddle a canoe back, it moves forward. This is:",
+        "options": ["Action-Reaction", "Inertia", "Gravity", "Friction"],
+        "answer": "Action-Reaction",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 225,
+        "question": "Who was the first person to walk on the moon?",
+        "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+        "answer": "Neil Armstrong",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 226,
+        "question": "The Golgi Apparatus is the cell's:",
+        "options": ["Packaging center", "Control center", "Powerhouse", "Gate"],
+        "answer": "Packaging center",
+        "topic": "Organelles"
+    },
+    {
+        "id": 227,
+        "question": "Spiders belong to which group?",
+        "options": ["Arachnids", "Insects", "Reptiles", "Crustaceans"],
+        "answer": "Arachnids",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 228,
+        "question": "Geothermal energy comes from:",
+        "options": ["Heat inside the Earth", "The Sun", "Wind", "Water"],
+        "answer": "Heat inside the Earth",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 229,
+        "question": "An electromagnet needs ___ to work.",
+        "options": ["Electricity", "Sunlight", "Heat", "Water"],
+        "answer": "Electricity",
+        "topic": "Electricity"
+    },
+    {
+        "id": 230,
+        "question": "White light is made of:",
+        "options": ["All colors of the rainbow", "No colors", "Only white color", "Blue and Yellow"],
+        "answer": "All colors of the rainbow",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 231,
+        "question": "The Zodiac constellations lie along the path of the:",
+        "options": ["Sun (Ecliptic)", "Moon", "Milky Way", "Equator"],
+        "answer": "Sun (Ecliptic)",
+        "topic": "Constellations"
+    },
+    {
+        "id": 232,
+        "question": "We only see one side of the Moon because:",
+        "options": ["Its rotation matches its revolution", "It doesn't rotate", "It is flat", "The sun only shines on one side"],
+        "answer": "Its rotation matches its revolution",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 233,
+        "question": "The boiling point of water in Celsius is:",
+        "options": ["100", "0", "32", "212"],
+        "answer": "100",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 234,
+        "question": "The symbol 'Ca' stands for:",
+        "options": ["Calcium", "Carbon", "Californium", "Cadmium"],
+        "answer": "Calcium",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 235,
+        "question": "Plants get their green color from:",
+        "options": ["Chlorophyll", "Roots", "Bark", "Flowers"],
+        "answer": "Chlorophyll",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 236,
+        "question": "A mutation is a change in:",
+        "options": ["DNA", "Diet", "Habitat", "Behavior"],
+        "answer": "DNA",
+        "topic": "Genetics"
+    },
+    {
+        "id": 237,
+        "question": "Coprolite is fossilized:",
+        "options": ["Dung (Poop)", "Bone", "Skin", "Footprints"],
+        "answer": "Dung (Poop)",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 238,
+        "question": "Recycling helps primarily to:",
+        "options": ["Reduce waste", "Make money", "Look good", "Stop rain"],
+        "answer": "Reduce waste",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 239,
+        "question": "A doorknob is an example of a:",
+        "options": ["Wheel and Axle", "Lever", "Pulley", "Inclined Plane"],
+        "answer": "Wheel and Axle",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 240,
+        "question": "The Sun's gravity holds the ___ together.",
+        "options": ["Solar System", "Galaxy", "Universe", "Earth"],
+        "answer": "Solar System",
+        "topic": "The Sun"
+    },
+    {
+        "id": 241,
+        "question": "Air is a mixture of:",
+        "options": ["Gases", "Liquids", "Solids", "Plasmas"],
+        "answer": "Gases",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 242,
+        "question": "The white part of the eye is the:",
+        "options": ["Sclera", "Iris", "Pupil", "Retina"],
+        "answer": "Sclera",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 243,
+        "question": "Slate is used for chalkboards. It is:",
+        "options": ["Metamorphic", "Igneous", "Sedimentary", "Plastic"],
+        "answer": "Metamorphic",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 244,
+        "question": "If you push a wall, the wall pushes back. This is:",
+        "options": ["Newton's 3rd Law", "Gravity", "Friction", "Inertia"],
+        "answer": "Newton's 3rd Law",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 245,
+        "question": "Sally Ride was the first American woman in:",
+        "options": ["Space", "Politics", "Medicine", "The Army"],
+        "answer": "Space",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 246,
+        "question": "Prokaryotic cells do not have a:",
+        "options": ["Nucleus", "Cell Wall", "Membrane", "DNA"],
+        "answer": "Nucleus",
+        "topic": "Organelles"
+    },
+    {
+        "id": 247,
+        "question": "Insects have how many legs?",
+        "options": ["6", "8", "4", "100"],
+        "answer": "6",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 248,
+        "question": "Biomass energy comes from:",
+        "options": ["Plants and organic matter", "Rocks", "Wind", "Water"],
+        "answer": "Plants and organic matter",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 249,
+        "question": "LED stands for:",
+        "options": ["Light Emitting Diode", "Low Energy Device", "Light Energy Device", "Long Electric Diode"],
+        "answer": "Light Emitting Diode",
+        "topic": "Electricity"
+    },
+    {
+        "id": 250,
+        "question": "Echoes are caused by sound waves:",
+        "options": ["Reflecting", "Refracting", "Diffracting", "Absorbing"],
+        "answer": "Reflecting",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 251,
+        "question": "Gemini is the sign of the:",
+        "options": ["Twins", "Fish", "Ram", "Lion"],
+        "answer": "Twins",
+        "topic": "Constellations"
+    },
+    {
+        "id": 252,
+        "question": "The moon reflects light from the:",
+        "options": ["Sun", "Earth", "Stars", "Mars"],
+        "answer": "Sun",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 253,
+        "question": "Volume is the amount of ___ an object takes up.",
+        "options": ["Space", "Weight", "Mass", "Energy"],
+        "answer": "Space",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 254,
+        "question": "The symbol 'Au' stands for:",
+        "options": ["Gold", "Silver", "Aluminum", "Argon"],
+        "answer": "Gold",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 255,
+        "question": "Roots take in water and:",
+        "options": ["Nutrients/Minerals", "Sunlight", "Carbon Dioxide", "Wind"],
+        "answer": "Nutrients/Minerals",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 256,
+        "question": "A recessive trait shows up only if:",
+        "options": ["Two recessive genes are present", "One dominant gene is present", "No genes are present", "It is sunny"],
+        "answer": "Two recessive genes are present",
+        "topic": "Genetics"
+    },
+    {
+        "id": 257,
+        "question": "Which period did T-Rex live in?",
+        "options": ["Cretaceous", "Jurassic", "Triassic", "Devonian"],
+        "answer": "Cretaceous",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 258,
+        "question": "The Ozone Layer protects us from:",
+        "options": ["UV Radiation", "Meteors", "Aliens", "Sound"],
+        "answer": "UV Radiation",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 259,
+        "question": "A crane uses which machine to lift heavy loads?",
+        "options": ["Pulley", "Screw", "Wedge", "Inclined Plane"],
+        "answer": "Pulley",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 260,
+        "question": "The Sun is a:",
+        "options": ["Yellow Dwarf Star", "Red Giant", "White Dwarf", "Black Hole"],
+        "answer": "Yellow Dwarf Star",
+        "topic": "The Sun"
+    },
+    {
+        "id": 261,
+        "question": "Rusting is an example of:",
+        "options": ["Oxidation", "Evaporation", "Condensation", "Melting"],
+        "answer": "Oxidation",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 262,
+        "question": "The spinal cord is protected by the:",
+        "options": ["Vertebrae (Backbone)", "Ribs", "Skull", "Pelvis"],
+        "answer": "Vertebrae (Backbone)",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 263,
+        "question": "Coal is a fossil fuel and a type of:",
+        "options": ["Sedimentary Rock", "Igneous Rock", "Metamorphic Rock", "Mineral"],
+        "answer": "Sedimentary Rock",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 264,
+        "question": "Force equals Mass times:",
+        "options": ["Acceleration", "Velocity", "Speed", "Distance"],
+        "answer": "Acceleration",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 265,
+        "question": "Louis Pasteur created the process of:",
+        "options": ["Pasteurization", "Electrolysis", "Evolution", "Gravity"],
+        "answer": "Pasteurization",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 266,
+        "question": "Multicellular means:",
+        "options": ["Made of many cells", "Made of one cell", "Made of no cells", "Made of viruses"],
+        "answer": "Made of many cells",
+        "topic": "Organelles"
+    },
+    {
+        "id": 267,
+        "question": "A shark has a skeleton made of:",
+        "options": ["Cartilage", "Bone", "Metal", "Stone"],
+        "answer": "Cartilage",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 268,
+        "question": "Hydroelectric power uses:",
+        "options": ["Flowing water", "Sunlight", "Wind", "Steam"],
+        "answer": "Flowing water",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 269,
+        "question": "A device that opens and closes a circuit is a:",
+        "options": ["Switch", "Battery", "Bulb", "Wire"],
+        "answer": "Switch",
+        "topic": "Electricity"
+    },
+    {
+        "id": 270,
+        "question": "Pitch is determined by:",
+        "options": ["Frequency", "Amplitude", "Speed", "Color"],
+        "answer": "Frequency",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 271,
+        "question": "Which constellation looks like a hunter?",
+        "options": ["Orion", "Leo", "Scorpio", "Pisces"],
+        "answer": "Orion",
+        "topic": "Constellations"
+    },
+    {
+        "id": 272,
+        "question": "When the moon blocks the sun, it is a:",
+        "options": ["Solar Eclipse", "Lunar Eclipse", "Full Moon", "New Moon"],
+        "answer": "Solar Eclipse",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 273,
+        "question": "A scale measures:",
+        "options": ["Weight", "Length", "Time", "Volume"],
+        "answer": "Weight",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 274,
+        "question": "The symbol 'Pb' stands for:",
+        "options": ["Lead", "Peanut Butter", "Platinum", "Phosphorus"],
+        "answer": "Lead",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 275,
+        "question": "Xylem transports:",
+        "options": ["Water", "Food", "Air", "Sunlight"],
+        "answer": "Water",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 276,
+        "question": "A genotype refers to:",
+        "options": ["Genetic makeup", "Physical appearance", "Clothing style", "Eye color"],
+        "answer": "Genetic makeup",
+        "topic": "Genetics"
+    },
+    {
+        "id": 277,
+        "question": "Ammonites are ancient:",
+        "options": ["Mollusks (Shelled creatures)", "Dinosaurs", "Plants", "Birds"],
+        "answer": "Mollusks (Shelled creatures)",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 278,
+        "question": "Carbon footprint measures:",
+        "options": ["Greenhouse gas emissions", "Shoe size", "Coal mining", "Tree growth"],
+        "answer": "Greenhouse gas emissions",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 279,
+        "question": "Scissors are a complex machine made of:",
+        "options": ["Levers and Wedges", "Pulleys and Screws", "Wheels and Axles", "Inclined Planes"],
+        "answer": "Levers and Wedges",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 280,
+        "question": "The Sun rises in the:",
+        "options": ["East", "West", "North", "South"],
+        "answer": "East",
+        "topic": "The Sun"
+    },
+    {
+        "id": 281,
+        "question": "Density equals:",
+        "options": ["Mass divided by Volume", "Volume divided by Mass", "Mass times Volume", "Weight times Height"],
+        "answer": "Mass divided by Volume",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 282,
+        "question": "The space between neurons where chemicals travel is the:",
+        "options": ["Synapse", "Axon", "Dendrite", "Nucleus"],
+        "answer": "Synapse",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 283,
+        "question": "The streak test identifies minerals by:",
+        "options": ["Powder color", "Hardness", "Shine", "Weight"],
+        "answer": "Powder color",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 284,
+        "question": "Balanced forces cause:",
+        "options": ["No change in motion", "Acceleration", "Deceleration", "Turning"],
+        "answer": "No change in motion",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 285,
+        "question": "Nikola Tesla is famous for his work with:",
+        "options": ["AC Electricity", "Evolution", "Cells", "Gravity"],
+        "answer": "AC Electricity",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 286,
+        "question": "Photosynthesis happens in which organelle?",
+        "options": ["Chloroplast", "Mitochondria", "Nucleus", "Ribosome"],
+        "answer": "Chloroplast",
+        "topic": "Organelles"
+    },
+    {
+        "id": 287,
+        "question": "Which animal group has dry, scaly skin?",
+        "options": ["Reptiles", "Amphibians", "Fish", "Mammals"],
+        "answer": "Reptiles",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 288,
+        "question": "Energy in motion is:",
+        "options": ["Kinetic", "Potential", "Stored", "Chemical"],
+        "answer": "Kinetic",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 289,
+        "question": "Voltage is measured in:",
+        "options": ["Volts", "Amps", "Ohms", "Watts"],
+        "answer": "Volts",
+        "topic": "Electricity"
+    },
+    {
+        "id": 290,
+        "question": "Visible light is part of the:",
+        "options": ["Electromagnetic Spectrum", "Sound Spectrum", "Water Cycle", "Rock Cycle"],
+        "answer": "Electromagnetic Spectrum",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 291,
+        "question": "Cassiopeia looks like a:",
+        "options": ["W or M", "Hunter", "Bear", "Lion"],
+        "answer": "W or M",
+        "topic": "Constellations"
+    },
+    {
+        "id": 292,
+        "question": "The moon has no:",
+        "options": ["Atmosphere", "Gravity", "Rocks", "Craters"],
+        "answer": "Atmosphere",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 293,
+        "question": "Metric prefix 'Kilo' means:",
+        "options": ["1000", "100", "10", "1/1000"],
+        "answer": "1000",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 294,
+        "question": "The symbol 'Cl' stands for:",
+        "options": ["Chlorine", "Calcium", "Carbon", "Copper"],
+        "answer": "Chlorine",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 295,
+        "question": "Phloem transports:",
+        "options": ["Food (Sugar)", "Water", "Sunlight", "Air"],
+        "answer": "Food (Sugar)",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 296,
+        "question": "XY chromosomes usually result in a:",
+        "options": ["Male", "Female", "Clone", "Plant"],
+        "answer": "Male",
+        "topic": "Genetics"
+    },
+    {
+        "id": 297,
+        "question": "Which dinosaur had three horns?",
+        "options": ["Triceratops", "T-Rex", "Stegosaurus", "Pterodactyl"],
+        "answer": "Triceratops",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 298,
+        "question": "Burning fossil fuels releases:",
+        "options": ["Carbon Dioxide", "Oxygen", "Gold", "Water"],
+        "answer": "Carbon Dioxide",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 299,
+        "question": "A bottle opener is a:",
+        "options": ["Lever (2nd Class)", "Pulley", "Screw", "Wedge"],
+        "answer": "Lever (2nd Class)",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 300,
+        "question": "The Sun's energy is created by:",
+        "options": ["Nuclear Fusion", "Burning Coal", "Electricity", "Friction"],
+        "answer": "Nuclear Fusion",
+        "topic": "The Sun"
+    },
+    {
+        "id": 301,
+        "question": "What is the smallest unit of matter?",
+        "options": ["Atom", "Molecule", "Cell", "Grain"],
+        "answer": "Atom",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 302,
+        "question": "Which sense uses the retina?",
+        "options": ["Sight", "Hearing", "Taste", "Touch"],
+        "answer": "Sight",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 303,
+        "question": "Which mineral tastes salty?",
+        "options": ["Halite", "Quartz", "Diamond", "Gold"],
+        "answer": "Halite",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 304,
+        "question": "A seatbelt stops you due to:",
+        "options": ["Inertia", "Gravity", "Magnetism", "Electricity"],
+        "answer": "Inertia",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 305,
+        "question": "Who invented the first airplane?",
+        "options": ["The Wright Brothers", "Edison", "Bell", "Ford"],
+        "answer": "The Wright Brothers",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 306,
+        "question": "The 'skin' of the cell is the:",
+        "options": ["Cell Membrane", "Nucleus", "Ribosome", "Vacuole"],
+        "answer": "Cell Membrane",
+        "topic": "Organelles"
+    },
+    {
+        "id": 307,
+        "question": "Which bird cannot fly?",
+        "options": ["Penguin", "Eagle", "Robin", "Hawk"],
+        "answer": "Penguin",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 308,
+        "question": "Sound energy is created by:",
+        "options": ["Vibrations", "Light", "Heat", "Magnets"],
+        "answer": "Vibrations",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 309,
+        "question": "Current is measured in:",
+        "options": ["Amperes (Amps)", "Volts", "Ohms", "Watts"],
+        "answer": "Amperes (Amps)",
+        "topic": "Electricity"
+    },
+    {
+        "id": 310,
+        "question": "Which waves are used for cell phones?",
+        "options": ["Radio Waves", "X-Rays", "Gamma Rays", "Sound Waves"],
+        "answer": "Radio Waves",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 311,
+        "question": "Draco is the constellation of the:",
+        "options": ["Dragon", "Dog", "Bear", "Hunter"],
+        "answer": "Dragon",
+        "topic": "Constellations"
+    },
+    {
+        "id": 312,
+        "question": "A gibbous moon is:",
+        "options": ["More than half lit but not full", "Less than half lit", "Completely dark", "Full"],
+        "answer": "More than half lit but not full",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 313,
+        "question": "1 Meter equals how many centimeters?",
+        "options": ["100", "10", "1000", "50"],
+        "answer": "100",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 314,
+        "question": "The symbol 'Si' stands for:",
+        "options": ["Silicon", "Silver", "Sulfur", "Sodium"],
+        "answer": "Silicon",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 315,
+        "question": "Plants release water vapor through:",
+        "options": ["Transpiration", "Perspiration", "Condensation", "Rain"],
+        "answer": "Transpiration",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 316,
+        "question": "DNA is found in the:",
+        "options": ["Nucleus", "Ribosome", "Wall", "Membrane"],
+        "answer": "Nucleus",
+        "topic": "Genetics"
+    },
+    {
+        "id": 317,
+        "question": "Which dinosaur had a club tail?",
+        "options": ["Ankylosaurus", "T-Rex", "Velociraptor", "Brontosaurus"],
+        "answer": "Ankylosaurus",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 318,
+        "question": "Conservation means:",
+        "options": ["Saving resources", "Using more resources", "Wasting water", "Burning trees"],
+        "answer": "Saving resources",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 319,
+        "question": "A ramp for a wheelchair is an:",
+        "options": ["Inclined Plane", "Lever", "Pulley", "Screw"],
+        "answer": "Inclined Plane",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 320,
+        "question": "The Sun is at the center of the:",
+        "options": ["Solar System", "Galaxy", "Universe", "Earth"],
+        "answer": "Solar System",
+        "topic": "The Sun"
+    },
+    {
+        "id": 321,
+        "question": "Solids have:",
+        "options": ["Definite shape and volume", "No shape", "No volume", "Flow"],
+        "answer": "Definite shape and volume",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 322,
+        "question": "The largest part of the brain is the:",
+        "options": ["Cerebrum", "Cerebellum", "Brain Stem", "Pituitary"],
+        "answer": "Cerebrum",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 323,
+        "question": "Basalt is formed from lava. It is:",
+        "options": ["Igneous", "Sedimentary", "Metamorphic", "Sand"],
+        "answer": "Igneous",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 324,
+        "question": "Which has more inertia?",
+        "options": ["A bowling ball", "A tennis ball", "A feather", "A marble"],
+        "answer": "A bowling ball",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 325,
+        "question": "Benjamin Franklin is known for experimenting with:",
+        "options": ["Electricity (Kite and Key)", "DNA", "Radio", "Cars"],
+        "answer": "Electricity (Kite and Key)",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 326,
+        "question": "Endoplasmic Reticulum (ER) helps move:",
+        "options": ["Materials around the cell", "The whole cell", "DNA", "Waste out"],
+        "answer": "Materials around the cell",
+        "topic": "Organelles"
+    },
+    {
+        "id": 327,
+        "question": "Frogs start life as:",
+        "options": ["Tadpoles", "Eggs on land", "Small frogs", "Larvae"],
+        "answer": "Tadpoles",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 328,
+        "question": "Energy from the atom's nucleus is:",
+        "options": ["Nuclear Energy", "Chemical Energy", "Thermal Energy", "Solar Energy"],
+        "answer": "Nuclear Energy",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 329,
+        "question": "Resistance is measured in:",
+        "options": ["Ohms", "Volts", "Amps", "Watts"],
+        "answer": "Ohms",
+        "topic": "Electricity"
+    },
+    {
+        "id": 330,
+        "question": "Rainbows are caused by light:",
+        "options": ["Refracting through raindrops", "Reflecting off clouds", "Absorbing into sky", "Stopping"],
+        "answer": "Refracting through raindrops",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 331,
+        "question": "The Seven Sisters is a star cluster called:",
+        "options": ["Pleiades", "Orion", "Big Dipper", "Gemini"],
+        "answer": "Pleiades",
+        "topic": "Constellations"
+    },
+    {
+        "id": 332,
+        "question": "The dark side of the moon is:",
+        "options": ["The side facing away from Earth", "Always dark", "Cold", "Hot"],
+        "answer": "The side facing away from Earth",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 333,
+        "question": "A ruler measures:",
+        "options": ["Length", "Mass", "Volume", "Temperature"],
+        "answer": "Length",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 334,
+        "question": "The symbol 'Zn' stands for:",
+        "options": ["Zinc", "Zirconium", "Xenon", "Zebra"],
+        "answer": "Zinc",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 335,
+        "question": "Plants store extra food as:",
+        "options": ["Starch", "Fat", "Protein", "Water"],
+        "answer": "Starch",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 336,
+        "question": "Traits are carried on:",
+        "options": ["Chromosomes", "Blood", "Skin", "Hair"],
+        "answer": "Chromosomes",
+        "topic": "Genetics"
+    },
+    {
+        "id": 337,
+        "question": "Birds evolved from:",
+        "options": ["Theropod Dinosaurs", "Fish", "Mammals", "Amphibians"],
+        "answer": "Theropod Dinosaurs",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 338,
+        "question": "Composting helps:",
+        "options": ["Reduce trash and make soil", "Burn trash", "Pollute water", "Kill plants"],
+        "answer": "Reduce trash and make soil",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 339,
+        "question": "A pry bar is a type of:",
+        "options": ["Lever", "Pulley", "Screw", "Wheel"],
+        "answer": "Lever",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 340,
+        "question": "The Sun is how old?",
+        "options": ["4.6 Billion Years", "1000 Years", "1 Million Years", "10 Years"],
+        "answer": "4.6 Billion Years",
+        "topic": "The Sun"
+    },
+    {
+        "id": 341,
+        "question": "Atomic number is the number of:",
+        "options": ["Protons", "Neutrons", "Electrons", "Isotopes"],
+        "answer": "Protons",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 342,
+        "question": "Nerves are made of bundles of:",
+        "options": ["Neurons", "Muscle", "Bone", "Skin"],
+        "answer": "Neurons",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 343,
+        "question": "Lava cools outside the volcano to form:",
+        "options": ["Extrusive Igneous Rock", "Intrusive Igneous Rock", "Sedimentary Rock", "Metamorphic Rock"],
+        "answer": "Extrusive Igneous Rock",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 344,
+        "question": "Friction creates:",
+        "options": ["Heat", "Cold", "Light", "Magnetism"],
+        "answer": "Heat",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 345,
+        "question": "Who invented the radio?",
+        "options": ["Guglielmo Marconi", "Edison", "Tesla", "Bell"],
+        "answer": "Guglielmo Marconi",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 346,
+        "question": "What gives plants structure?",
+        "options": ["Cell Wall", "Membrane", "Nucleus", "Ribosome"],
+        "answer": "Cell Wall",
+        "topic": "Organelles"
+    },
+    {
+        "id": 347,
+        "question": "Bats are:",
+        "options": ["Mammals", "Birds", "Reptiles", "Insects"],
+        "answer": "Mammals",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 348,
+        "question": "A moving car has:",
+        "options": ["Kinetic Energy", "Potential Energy", "Elastic Energy", "Nuclear Energy"],
+        "answer": "Kinetic Energy",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 349,
+        "question": "A path with only one route for current is a:",
+        "options": ["Series Circuit", "Parallel Circuit", "Open Circuit", "Short Circuit"],
+        "answer": "Series Circuit",
+        "topic": "Electricity"
+    },
+    {
+        "id": 350,
+        "question": "UV stands for:",
+        "options": ["Ultraviolet", "Ultra Velocity", "Under Voltage", "Universal"],
+        "answer": "Ultraviolet",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 351,
+        "question": "Scorpius represents a:",
+        "options": ["Scorpion", "Snake", "Spider", "Scale"],
+        "answer": "Scorpion",
+        "topic": "Constellations"
+    },
+    {
+        "id": 352,
+        "question": "The moon's gravity causes:",
+        "options": ["Tides", "Winds", "Earthquakes", "Rain"],
+        "answer": "Tides",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 353,
+        "question": "A graduated cylinder measures:",
+        "options": ["Volume of a liquid", "Mass", "Length", "Temperature"],
+        "answer": "Volume of a liquid",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 354,
+        "question": "The symbol 'Mg' stands for:",
+        "options": ["Magnesium", "Manganese", "Mercury", "Magnet"],
+        "answer": "Magnesium",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 355,
+        "question": "Most photosynthesis happens in the:",
+        "options": ["Leaves", "Roots", "Stem", "Flowers"],
+        "answer": "Leaves",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 356,
+        "question": "Identical twins have:",
+        "options": ["The same DNA", "Different DNA", "Different parents", "Different birthdays"],
+        "answer": "The same DNA",
+        "topic": "Genetics"
+    },
+    {
+        "id": 357,
+        "question": "Megalodon was a giant prehistoric:",
+        "options": ["Shark", "Dinosaur", "Whale", "Crocodile"],
+        "answer": "Shark",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 358,
+        "question": "The greenhouse effect keeps Earth:",
+        "options": ["Warm enough for life", "Too cold", "Dark", "Dry"],
+        "answer": "Warm enough for life",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 359,
+        "question": "A zipper is a type of:",
+        "options": ["Wedge", "Lever", "Pulley", "Wheel"],
+        "answer": "Wedge",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 360,
+        "question": "A solar eclipse can only happen during a:",
+        "options": ["New Moon", "Full Moon", "First Quarter", "Last Quarter"],
+        "answer": "New Moon",
+        "topic": "The Sun"
+    },
+    {
+        "id": 361,
+        "question": "Liquids have:",
+        "options": ["Definite volume but no definite shape", "Definite shape", "No volume", "No mass"],
+        "answer": "Definite volume but no definite shape",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 362,
+        "question": "The colored part of the eye is the:",
+        "options": ["Iris", "Pupil", "Lens", "Retina"],
+        "answer": "Iris",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 363,
+        "question": "Magma cools underground to form:",
+        "options": ["Intrusive Igneous Rock", "Extrusive Igneous Rock", "Sedimentary Rock", "Sand"],
+        "answer": "Intrusive Igneous Rock",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 364,
+        "question": "Air resistance is a type of:",
+        "options": ["Friction", "Gravity", "Magnetism", "Electricity"],
+        "answer": "Friction",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 365,
+        "question": "Watson and Crick discovered:",
+        "options": ["The structure of DNA", "Gravity", "Cells", "Atoms"],
+        "answer": "The structure of DNA",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 366,
+        "question": "Vacuoles in plant cells are:",
+        "options": ["Larger than in animal cells", "Smaller", "Absent", "The same size"],
+        "answer": "Larger than in animal cells",
+        "topic": "Organelles"
+    },
+    {
+        "id": 367,
+        "question": "Which animal is an amphibian?",
+        "options": ["Salamander", "Lizard", "Snake", "Turtle"],
+        "answer": "Salamander",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 368,
+        "question": "Rubbing hands together creates heat from:",
+        "options": ["Friction", "Gravity", "Chemicals", "Nuclear"],
+        "answer": "Friction",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 369,
+        "question": "Batteries convert chemical energy into:",
+        "options": ["Electrical Energy", "Nuclear Energy", "Sound Energy", "Wind Energy"],
+        "answer": "Electrical Energy",
+        "topic": "Electricity"
+    },
+    {
+        "id": 370,
+        "question": "Frequency is measured in:",
+        "options": ["Hertz (Hz)", "Meters", "Seconds", "Watts"],
+        "answer": "Hertz (Hz)",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 371,
+        "question": "Cygnus is the constellation of the:",
+        "options": ["Swan", "Eagle", "Fish", "Bear"],
+        "answer": "Swan",
+        "topic": "Constellations"
+    },
+    {
+        "id": 372,
+        "question": "The moon is a natural:",
+        "options": ["Satellite", "Star", "Planet", "Asteroid"],
+        "answer": "Satellite",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 373,
+        "question": "32 degrees Fahrenheit is:",
+        "options": ["Freezing point of water", "Boiling point", "Room temperature", "Hot"],
+        "answer": "Freezing point of water",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 374,
+        "question": "The symbol 'Cu' stands for:",
+        "options": ["Copper", "Carbon", "Calcium", "Cobalt"],
+        "answer": "Copper",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 375,
+        "question": "Chlorophyll absorbs mostly:",
+        "options": ["Blue and Red light", "Green light", "Yellow light", "Black light"],
+        "answer": "Blue and Red light",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 376,
+        "question": "Phenotype refers to:",
+        "options": ["Physical appearance", "Genetic code", "DNA", "Chromosomes"],
+        "answer": "Physical appearance",
+        "topic": "Genetics"
+    },
+    {
+        "id": 377,
+        "question": "Ichthyosaurus was a:",
+        "options": ["Marine Reptile", "Dinosaur", "Fish", "Bird"],
+        "answer": "Marine Reptile",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 378,
+        "question": "Glaciers melting causes:",
+        "options": ["Sea levels to rise", "Sea levels to fall", "More land", "Colder oceans"],
+        "answer": "Sea levels to rise",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 379,
+        "question": "A steering wheel is a:",
+        "options": ["Wheel and Axle", "Pulley", "Lever", "Inclined Plane"],
+        "answer": "Wheel and Axle",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 380,
+        "question": "Sunspots are:",
+        "options": ["Cooler than the rest of the sun", "Hotter", "Holes", "Planets"],
+        "answer": "Cooler than the rest of the sun",
+        "topic": "The Sun"
+    },
+    {
+        "id": 381,
+        "question": "Gases have:",
+        "options": ["No definite shape or volume", "Definite volume", "Definite shape", "Fixed mass"],
+        "answer": "No definite shape or volume",
+        "topic": "Atoms and Molecules"
+    },
+    {
+        "id": 382,
+        "question": "Which nerve helps you smell?",
+        "options": ["Olfactory Nerve", "Optic Nerve", "Auditory Nerve", "Spinal Nerve"],
+        "answer": "Olfactory Nerve",
+        "topic": "Nervous System"
+    },
+    {
+        "id": 383,
+        "question": "Marble forms from:",
+        "options": ["Limestone", "Sandstone", "Granite", "Shale"],
+        "answer": "Limestone",
+        "topic": "Rocks and Minerals"
+    },
+    {
+        "id": 384,
+        "question": "If you slide on ice, you don't stop easily because of:",
+        "options": ["Low friction", "High friction", "Gravity", "Magnetism"],
+        "answer": "Low friction",
+        "topic": "Newton’s Three Laws"
+    },
+    {
+        "id": 385,
+        "question": "Dmitri Mendeleev created the:",
+        "options": ["Periodic Table", "Telescope", "Microscope", "Telephone"],
+        "answer": "Periodic Table",
+        "topic": "Famous Scientists"
+    },
+    {
+        "id": 386,
+        "question": "Cells reproduce by:",
+        "options": ["Division (Mitosis)", "Fusion", "Expansion", "Explosion"],
+        "answer": "Division (Mitosis)",
+        "topic": "Organelles"
+    },
+    {
+        "id": 387,
+        "question": "Whales breathe using:",
+        "options": ["Lungs", "Gills", "Skin", "Fins"],
+        "answer": "Lungs",
+        "topic": "Animal Classification"
+    },
+    {
+        "id": 388,
+        "question": "A compressed spring has:",
+        "options": ["Potential Energy", "Kinetic Energy", "Thermal Energy", "Solar Energy"],
+        "answer": "Potential Energy",
+        "topic": "Types of Energy"
+    },
+    {
+        "id": 389,
+        "question": "Parallel circuits have:",
+        "options": ["Multiple paths for current", "One path", "No path", "Broken paths"],
+        "answer": "Multiple paths for current",
+        "topic": "Electricity"
+    },
+    {
+        "id": 390,
+        "question": "Which wave carries the most energy?",
+        "options": ["Gamma Rays", "Radio Waves", "Light", "Microwaves"],
+        "answer": "Gamma Rays",
+        "topic": "Waves & Wavelengths"
+    },
+    {
+        "id": 391,
+        "question": "Canis Major is the:",
+        "options": ["Big Dog", "Small Dog", "Cat", "Bird"],
+        "answer": "Big Dog",
+        "topic": "Constellations"
+    },
+    {
+        "id": 392,
+        "question": "Blue moons occur:",
+        "options": ["Rarely", "Every month", "Every year", "Never"],
+        "answer": "Rarely",
+        "topic": "Moon Phases"
+    },
+    {
+        "id": 393,
+        "question": "Mass is measured with a:",
+        "options": ["Balance", "Ruler", "Thermometer", "Clock"],
+        "answer": "Balance",
+        "topic": "Units of Measurement"
+    },
+    {
+        "id": 394,
+        "question": "The symbol 'S' stands for:",
+        "options": ["Sulfur", "Sodium", "Silver", "Silicon"],
+        "answer": "Sulfur",
+        "topic": "Elements of the Periodic Table"
+    },
+    {
+        "id": 395,
+        "question": "Without photosynthesis, there would be no:",
+        "options": ["Oxygen to breathe", "Carbon dioxide", "Rocks", "Water"],
+        "answer": "Oxygen to breathe",
+        "topic": "Photosynthesis"
+    },
+    {
+        "id": 396,
+        "question": "A carrier is someone who:",
+        "options": ["Carries a recessive gene but doesn't show it", "Is sick", "Has a dominant gene", "Is tall"],
+        "answer": "Carries a recessive gene but doesn't show it",
+        "topic": "Genetics"
+    },
+    {
+        "id": 397,
+        "question": "Pterosaurs were:",
+        "options": ["Flying Reptiles", "Dinosaurs", "Birds", "Bats"],
+        "answer": "Flying Reptiles",
+        "topic": "Dinosaurs"
+    },
+    {
+        "id": 398,
+        "question": "Hybrid cars use:",
+        "options": ["Gas and Electricity", "Gas only", "Solar only", "Water"],
+        "answer": "Gas and Electricity",
+        "topic": "Climate Change"
+    },
+    {
+        "id": 399,
+        "question": "A hammer removing a nail is a:",
+        "options": ["Lever", "Wedge", "Pulley", "Screw"],
+        "answer": "Lever",
+        "topic": "Simple Machines"
+    },
+    {
+        "id": 400,
+        "question": "The Sun rotates:",
+        "options": ["On its axis", "Around Earth", "Around Moon", "Around Mars"],
+        "answer": "On its axis",
+        "topic": "The Sun"
+    }
+]
